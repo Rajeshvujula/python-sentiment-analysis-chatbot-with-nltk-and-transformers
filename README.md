@@ -166,5 +166,3 @@ To run this notebook on your local machine, follow these steps:
 
 This project successfully demonstrates and compares a classic rule-based NLP technique with a modern, Transformer-based approach for sentiment analysis. While VADER is fast and effective for simple texts, the RoBERTa model provides a deeper, more accurate understanding of sentiment, highlighting the power of pre-trained language models in modern NLP.
 
-
-change this 
